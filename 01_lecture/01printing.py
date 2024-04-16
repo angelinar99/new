@@ -4,7 +4,7 @@ print("hello world!")
 Why syntax matters?
 Try to print text without double quotes:
 '''
-# print(hello world!)
+print("hello world!")
 
 '''
 Multiple commands written in succession will be executed in order from first to last. For example this program
