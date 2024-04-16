@@ -8,9 +8,8 @@ Example:
     Please type in an amount: >> 4
     heyheyheyhey
 """
-
-print (hey)
-
+#solution here
+print ("Hello")
 """
 Write a program which asks the user for two strings and then prints out whichever is the longer of the two - 
 that is, whichever has the more characters. If the strings are of equal length, the program 
